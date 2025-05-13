@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+input {
+    padding: 8px;
+    width: 300px;
+}
+
+button {
+    margin: 5px;
+    padding: 8px;
+    font-size: 14px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li a {
+    color: blue;
+    text-decoration: none;
+}
